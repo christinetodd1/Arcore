@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea1208cb4bfc946f7aa1d7b5348cb086, type: 3}
+  m_Name: imagedatabase
+  m_EditorClassIdentifier: 
+  m_Images:
+  - Name: boots
+    Width: 0
+    Quality: 5
+    TextureGUID: 90027f12c956f6f4b9d1485e840a6049
+  - Name: cold
+    Width: 0
+    Quality: 10
+    TextureGUID: e392fa593faf1d743b17aef001224bc5
+  - Name: discopants
+    Width: 0
+    Quality: 80
+    TextureGUID: 3d4d9b6e70cab204b8c9057c6f4649a5
+  - Name: gravel
+    Width: 0
+    Quality: 40
+    TextureGUID: 0367447301f8c7e40b06c534304e9896
+  - Name: partyhat
+    Width: 0
+    Quality: 10
+    TextureGUID: a4557e614ac5d2140872f22dca561510
+  - Name: windshield
+    Width: 0
+    Quality: 
+    TextureGUID: 5327290fcf1bad3408cbc1037239eac1
+  m_RawData: 
+  m_IsRawDataDirty: 1
+  m_CliVersion: 1.2
